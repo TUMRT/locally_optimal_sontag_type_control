@@ -1,6 +1,6 @@
-numpy
-scipy
-sympy
-matplotlib
-dill
-tqdm
+numpy==1.26.4
+scipy==1.11.1
+sympy==1.12
+matplotlib==3.5.1
+dill==0.3.6
+tqdm==4.66.1
