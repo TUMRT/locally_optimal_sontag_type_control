@@ -1,7 +1,7 @@
 # Inverted Pendulum Example for Locally Optimal Control Based on Sontag-Type Controller
 
-This code is used to symbolically generate locally optimal Sontag-type controllers, as well as implement and benchmark them.
-The code is provided "as is".
+This code is used to symbolically generate locally optimal Sontag-type controllers, as well as implement and benchmark them on example systems.
+The code is provided "as is" without warranty of any kind.
 
 ## How to generate controller and run simulations
 1. Generate and save the controllers by running `generate_controllers.py`. The generated expressions should appear as files in the folder `generated`.
