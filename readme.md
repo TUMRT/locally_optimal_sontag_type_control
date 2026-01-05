@@ -8,4 +8,4 @@ The code is provided "as is" without warranty of any kind.
 2. Then, to run a simulation, run `_main.py`, or to run a set of performance comparison simulations, run `performance_comparison.py`, to show them, run `performance_comparison_plots.py`.
 
 ## References
-(Link to Paper)
+[Bongard 2025: Control Lyapunov Function for Optimality in Sontag-type Control (ECC)](https://ieeexplore.ieee.org/document/11186824)
